@@ -10,3 +10,5 @@ resume a screen session: screen -r(only 1 background session)/screen -r name
 
 kill a screen session: screen -X -S name quit
 
+show the backend terminal list: screen -ls
+
